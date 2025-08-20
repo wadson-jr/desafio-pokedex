@@ -75,9 +75,9 @@ npm (ou pnpm/yarn, se preferir)
 
 1.  Clonar o repositório
     
-    git clone <URL_DO_SEU_REPO>
+    git clone https://github.com/wadson-jr/desafio-pokedex.git
 
-    cd <PASTA_DO_REPO>
+    cd desafio-pokedex
 2.  Instalar dependências
     
     npm install
